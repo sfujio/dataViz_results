@@ -1,0 +1,102 @@
+ [
+    {
+      "PROVEEDOR" : "Sodexo Soluciones De Motivacion Chile S.A.",
+      "Rank" : 1,
+      "1.0" : 1.831911208525E10
+    },
+    {
+      "PROVEEDOR" : "Servicios Alimenticios Hendaya Sac",
+      "Rank" : 2,
+      "1.0" : 7.79739406108E9
+    },
+    {
+      "PROVEEDOR" : "Salud Y Vida S.A.",
+      "Rank" : 3,
+      "1.0" : 3.61067925E8
+    },
+    {
+      "PROVEEDOR" : "Edenred Chile S.A.",
+      "Rank" : 4,
+      "1.0" : 2.481292672834E10
+    },
+    {
+      "PROVEEDOR" : "Distribuidora De Alimentos S.A.",
+      "Rank" : 5,
+      "1.0" : 4.587893258E9
+    },
+    {
+      "PROVEEDOR" : "Soc Administradora De Casinos Y Servicios Aliservice S.A.",
+      "Rank" : 6,
+      "1.0" : 3.12994736E8
+    },
+    {
+      "PROVEEDOR" : "Distribuidora De Productos Alimenticios S.A.",
+      "Rank" : 7,
+      "1.0" : 1.007765432E9
+    },
+    {
+      "PROVEEDOR" : "Compaã\u2018ã�a Alimentaria Nacional Chile S.A.",
+      "Rank" : 8,
+      "1.0" : 5.60981607E8
+    },
+    {
+      "PROVEEDOR" : "Comercial De Alimentos S.A.",
+      "Rank" : 9,
+      "1.0" : 8.9046522E8
+    },
+    {
+      "PROVEEDOR" : "Raciosil Alimentos S.A.",
+      "Rank" : 10,
+      "1.0" : 3.8599938E8
+    },
+    {
+      "PROVEEDOR" : "Upgrade Chile S.A.",
+      "Rank" : 11,
+      "1.0" : 0
+    },
+    {
+      "PROVEEDOR" : "Sociedad De Servicios Alimentacion S.A.",
+      "Rank" : 12,
+      "1.0" : 3.79425344E8
+    },
+    {
+      "PROVEEDOR" : "Consorcio Merken Spa",
+      "Rank" : 13,
+      "1.0" : 2.544181525E9
+    },
+    {
+      "PROVEEDOR" : "Coan Chile Limitada",
+      "Rank" : 14,
+      "1.0" : 2.603923399E9
+    },
+    {
+      "PROVEEDOR" : "Nutriplus Alimentacion Y Tecnologia Sociedad Anonima",
+      "Rank" : 15,
+      "1.0" : 2.25956726E8
+    },
+    {
+      "PROVEEDOR" : "Consorcio Lonquimay Spa",
+      "Rank" : 16,
+      "1.0" : 0
+    },
+    {
+      "PROVEEDOR" : "Jmc Alimentos Limitada",
+      "Rank" : 17,
+      "1.0" : 7.07569291E8
+    },
+    {
+      "PROVEEDOR" : "Soc Alimenticia Departamental Limitada",
+      "Rank" : 18,
+      "1.0" : 1.48642364E9
+    },
+    {
+      "PROVEEDOR" : "Net Now Tecnologia Y Computacion S.A.",
+      "Rank" : 19,
+      "1.0" : 0
+    },
+    {
+      "PROVEEDOR" : "Fedir Chile Spa",
+      "Rank" : 20,
+      "1.0" : 1.081594635E9
+    }
+  ]
