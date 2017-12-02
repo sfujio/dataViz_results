@@ -34,7 +34,7 @@
 <div id="viz"></div>
 
 <script>
-d3.json("data.json", function(error, ourdata) {
+d3.json("jsonDecember.json", function(error, ourdata) {
   if (error) return console.error(error);
   make_viz(ourdata);
 });
@@ -43,9 +43,9 @@ function make_viz(data){
   .container("#viz")
   .data(data)
   .type("scatter")
-  .id("type")
-  .x("value")
-  .y("weight")
+  .id("PROVEEDOR")
+  .x("Rank")
+  .y("1.0")
   .draw()
 }
 </script>
